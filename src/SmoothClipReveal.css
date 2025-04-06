@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background: #fff;
+    font-family: sans-serif;
+  }
+  
+  .spacer {
+    height: 100vh;
+  }
+  
+  .video-wrapper {
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    clip-path: inset(0 0 calc(var(--reverse-progress, 1) * 100% + 20px) 0 round 4px);
+    will-change: clip-path;
+  }
+  
+  video {
+    width: 100%;
+    border-radius: 12px;
+    display: block;
+  }
+  
