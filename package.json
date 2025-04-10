@@ -2,7 +2,7 @@
   "name": "por",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://datdangg.github.io/SmoothScroll",
+  "homepage": "https://datdangg.github.io/GenerateExam",
   "dependencies": {
     "@studio-freight/lenis": "^1.0.42",
     "@testing-library/dom": "^10.4.0",
